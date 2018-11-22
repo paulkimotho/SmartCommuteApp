@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "64336305490",
+    "firebase_url": "https://smartcommutesystem.firebaseio.com",
+    "project_id": "smartcommutesystem",
+    "storage_bucket": "smartcommutesystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64336305490:android:9e61bec7d873a08b",
+        "android_client_info": {
+          "package_name": "com.example.test.smartcommuteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64336305490-ss11jtm93938ddi367s1509cvvgqlqij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test.smartcommuteapp",
+            "certificate_hash": "b64c2ccd5ec3e99bfd6e4ce5336329055331b782"
+          }
+        },
+        {
+          "client_id": "64336305490-f9fq5stpgnabsk3ucto2ofbun28pqmel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqAQhwNuzy2WBbwP7fQZ-1HpZnmfK1nvs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64336305490-f9fq5stpgnabsk3ucto2ofbun28pqmel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
